@@ -6,7 +6,7 @@ This is a **Zoom-like video calling application** built using **React**, **WebRT
 
 ## 🚀 Live Demo
 
-🌐 **Netlify Link:** (https://your-app-name.netlify.app)  
+🌐 **Netlify Link:** ([https://your-app-name.netlify.app](https://app.netlify.com/projects/myzoomapp/configuration/deploys))  
 📧 **Developer Contact:** mehtaprity83@gmail.com
 
 ---
